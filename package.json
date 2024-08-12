@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:testTask": "node dist/test-task/server/server.mjs"
+    "serve:ssr:test-task": "node dist/test-task/server/server.mjs"
   },
   "private": true,
   "dependencies": {
